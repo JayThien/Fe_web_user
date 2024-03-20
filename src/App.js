@@ -5,6 +5,7 @@ import Contact from "./pages/contact";
 import Home from "./pages/home";
 import News from "./pages/news";
 
+// Thiện
 function App() {
   return (
     <div className={`flex flex-col items-center justify-center w-full`}>
